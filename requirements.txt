@@ -14,7 +14,7 @@ Jinja2==2.11.3
 macholib==1.5.1
 MarkupSafe==1.1.1
 modulegraph==0.10.4
-numpy>=1.17.0,!=1.18.0
+numpy==1.17.0
 py2app==0.7.3
 pycparser==2.19
 pyOpenSSL==19.0.0
