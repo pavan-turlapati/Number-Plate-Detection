@@ -11,3 +11,14 @@ To do this, follow these steps :
 3. Run API.PY
 4. Open 'localhost:8000' in your browswer.
 
+# OUTPUTS
+
+![img2](https://user-images.githubusercontent.com/19779081/50811428-3c281e00-1334-11e9-91ea-1a4a18b6fff8.PNG)
+
+
+![img3](https://user-images.githubusercontent.com/19779081/50811462-64178180-1334-11e9-84c8-8cbafed9349c.PNG)
+
+
+![img4](https://user-images.githubusercontent.com/19779081/50811485-92955c80-1334-11e9-9ef9-1829d701b6f1.PNG)
+
+
