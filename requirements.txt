@@ -14,7 +14,6 @@ cycler>=0.10
 pyparsing>=2.2.1
 six>=1.5
 threadpoolctl==2.0.0
-cycler==0.10.0
 imutils==0.5.3
 joblib==0.15.1
 
