@@ -10,7 +10,7 @@ MarkupSafe==2.0.0
 matplotlib==3.4.2
 networkx==2.5.1
 numpy==1.18.4
-opencv-python==4.2.0.34
+opencv-python==4.3.0.38
 pandas==1.2.4
 Pillow==8.2.0
 pyparsing==2.4.7
