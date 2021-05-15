@@ -1,5 +1,4 @@
 altgraph==0.10.2
-opencv-python==4.4.0.40
 asn1crypto==0.24.0
 bdist-mpkg==0.5.0
 cffi==1.12.2
@@ -39,3 +38,4 @@ scipy==1.4.1
 six==1.15.0
 threadpoolctl==2.0.0
 tifffile==2020.5.25
+opencv-python==4.4.0.40
