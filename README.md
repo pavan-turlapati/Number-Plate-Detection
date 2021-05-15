@@ -9,7 +9,9 @@ To do this, follow these steps :
 1. Clone this repo.
 2. Switch on your Apache Local Server
 3. Run API.PY
-4. Open 'localhost:8000' in your browswer.
+4. Open 'localhost:8000' in your browser.
+
+Data Link : https://drive.google.com/drive/folders/1lw1ivYcb1qUUWXHIodql6oo6mq7jb0JF?usp=sharing
 
 # OUTPUTS
 
