@@ -1,7 +1,6 @@
 altgraph==0.10.2
 asn1crypto==0.24.0
 bdist-mpkg==0.5.0
-bonjour-py==0.3
 cffi==1.12.2
 click==7.1.2
 cryptography==2.6.1
@@ -59,6 +58,7 @@ pyparsing==2.0.1
 python-dateutil==1.5
 pytz==2013.7
 scipy==0.13.0b1
+scikit-learn==0.19.2
 six==1.12.0
 Werkzeug==1.0.1
 xattr==0.6.4
