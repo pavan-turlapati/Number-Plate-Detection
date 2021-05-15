@@ -1,0 +1,2 @@
+web : guinicorn app:app
+
