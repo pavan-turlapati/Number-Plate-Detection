@@ -20,4 +20,5 @@ tifffile==2020.5.25
 Flask
 future
 gunicorn
+simplejson
 
