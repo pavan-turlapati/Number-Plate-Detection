@@ -13,6 +13,8 @@ To do this, follow these steps :
 
 Data Link : https://drive.google.com/drive/folders/1lw1ivYcb1qUUWXHIodql6oo6mq7jb0JF?usp=sharing
 
+Source Code : https://github.com/TheSkrill/Num-Plate-SC
+
 # OUTPUTS
 
 ![img2](https://user-images.githubusercontent.com/19779081/50811428-3c281e00-1334-11e9-91ea-1a4a18b6fff8.PNG)
