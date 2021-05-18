@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 from skimage.transform import resize
 import simplejson as json
-import cv2
+#import cv2
 import os
 from werkzeug.utils import secure_filename
 
