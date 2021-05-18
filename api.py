@@ -203,6 +203,7 @@ def make_prediction():
 		global column_list
 		classification_result = []
 		# characters = session['plate_characters']
+		model = pickle.load(open(filename, 'rb'))
 
 		for each_character in characters:
 		    # converts it to a 1D array
