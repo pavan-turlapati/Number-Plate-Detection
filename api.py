@@ -42,9 +42,6 @@ def description():
 def send_img(path):
 	return send_from_directory('./',path)
 
-app.listen(process.env.PORT || 3000, function(){
-  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
-});
 
 @app.route('/detect_plate', methods=['POST'])
 def detectPlate():
