@@ -1,4 +1,4 @@
-# Stackfusion Assignment
+# Detect the numbers in license plates from photos/videos!
 
 This is the repo through which I had deployed the model into the REPL server. The specific reason for me choosing this server was the smooth deployment process as compared to Heroku. Heroku was giving me a lot of errors in importing the scikit-learn dependencies, which is why I shifted to REPL.
 
