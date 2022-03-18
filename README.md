@@ -2,9 +2,9 @@
 
 This is the repo through which I had deployed the model into the REPL server and Heroku. REPL was giving me a lot of errors in importing the scikit-learn dependencies, which is why I shifted to Heroku.
 
- ~~Website : https://Number-Plate-Detection.theskrill.repl.co ~~
-
 ***MAJOR UPDATE - STABLE VERSION Deployed Here : https://number-plate-pred.herokuapp.com/***
+
+ (~~Website : https://Number-Plate-Detection.theskrill.repl.co ~~) -> Not used anymore.
 
 This website may not load quickly. Which is why, you can also run this locally in your system and test it.
 To do this, follow these steps : 
