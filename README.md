@@ -1,12 +1,12 @@
 # Detect the numbers in license plates from photos/videos!
 
-This is the repo through which I had deployed the model into the REPL server. The specific reason for me choosing this server was the smooth deployment process as compared to Heroku. Heroku was giving me a lot of errors in importing the scikit-learn dependencies, which is why I shifted to REPL.
+This is the repo through which I had deployed the model into the REPL server and Heroku. REPL was giving me a lot of errors in importing the scikit-learn dependencies, which is why I shifted to Heroku.
 
- Website : https://Number-Plate-Detection.theskrill.repl.co
+ ~~Website : https://Number-Plate-Detection.theskrill.repl.co
 
 ***MAJOR UPDATE - STABLE VERSION Deployed Here : https://number-plate-pred.herokuapp.com/***
 
-This website may be buggy, due to which it may not load quickly. Which is why, you can also run this locally in your system and test it.
+This website may not load quickly. Which is why, you can also run this locally in your system and test it.
 To do this, follow these steps : 
 1. Clone this repo.
 2. Switch on your Apache Local Server
