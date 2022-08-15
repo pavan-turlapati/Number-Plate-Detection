@@ -203,7 +203,7 @@ def make_prediction():
 		global column_list
 		classification_result = []
 		# characters = session['plate_characters']
-		filename = 'finalized_model.sav'
+		filename = 'updated_finalized_model.sav'
 		model = pickle.load(open(filename, 'rb'))
 
 		for each_character in characters:
