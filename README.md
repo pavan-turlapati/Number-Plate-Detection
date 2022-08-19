@@ -4,7 +4,7 @@ This is the repo through which I had deployed the model into the REPL server and
 
 ***MAJOR UPDATE - STABLE VERSION Deployed Here : https://number-plate-pred.herokuapp.com/***
 
- (~~Website : https://Number-Plate-Detection.theskrill.repl.co ~~) -> Not used anymore.
+ (~~Website : https://Number-Plate-Detection.theskrill.repl.co~~) -> Not used anymore.
 
 This website may not load quickly. Which is why, you can also run this locally in your system and test it.
 To do this, follow these steps : 
