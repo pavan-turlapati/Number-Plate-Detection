@@ -238,6 +238,6 @@ def make_prediction():
 
 
 if __name__ == '__main__':
-	filename = 'finalized_model.sav'
+	filename = 'updated_finalized_model.sav'
 	model = pickle.load(open(filename, 'rb'))
 	app.run(host='0.0.0.0', port=8000, debug=True)
